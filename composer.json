@@ -1,8 +1,7 @@
 {
-    "name": "asantibanez/laravel-blade-sortable",
+    "name": "tykus/laravel-blade-sortable",
     "description": "Custom Blade components to add sortable/drag-and-drop HTML elements in your apps",
     "keywords": [
-        "asantibanez",
         "laravel-blade-sortable"
     ],
     "homepage": "https://github.com/asantibanez/laravel-blade-sortable",
@@ -12,6 +11,11 @@
         {
             "name": "Andrés Santibáñez",
             "email": "santibanez.andres@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Tykus",
+            "email": "brian@tykus.ie",
             "role": "Developer"
         }
     ],
